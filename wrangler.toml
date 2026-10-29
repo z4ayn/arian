@@ -1,6 +1,0 @@
-name = "arian-instagram-feed"
-main = "index.js"
-compatibility_date = "2026-10-29"
-
-[vars]
-ALLOWED_ORIGIN = "https://z4ayn.github.io"
